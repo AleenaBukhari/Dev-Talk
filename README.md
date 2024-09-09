@@ -1,2 +1,2 @@
-A full stack web application that utilizes React, Node.js, and SQL to allow users to post programming questions,
-reply to posts, nest replies, like, view users, search and filter posts.
+All user data is stored in a MySQL database and the interface is implemented using Reactjs. Additionally, Nodejs is used to expose the servers and connect the front end with the backend.
+User data is stored within multiple tables of the MySQL database. This application is designed to run in a Docker environment
